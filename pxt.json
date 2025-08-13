@@ -1,5 +1,5 @@
 {
-    "name": "temperature display",
+    "name": "humidity display",
     "description": "",
     "dependencies": {
         "core": "*",
